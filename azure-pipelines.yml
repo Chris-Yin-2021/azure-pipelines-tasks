@@ -1,7 +1,5 @@
 trigger:
 - master
-- releases/*
-- node6hotfixes/*
 
 resources:
   repositories:
